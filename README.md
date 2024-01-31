@@ -1,7 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A avid learner | Software Engineering Student | Data Science enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg")
+img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-nikul-patel&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-nikul-patel" /> </p>
 
 - 🔭 I’m currently working on **AWS Sagemaker**
