@@ -1,31 +1,87 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A avid learner | Software Engineering Student | Data Science enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-nikul-patel&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-nikul-patel" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **AWS Sagemaker**
+# Hi there, I'm Aryan (Ari) Patel 👋
 
-- 🌱 I’m currently learning **Tensorflow**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;M.Sc.+Computer+Science+(Big+Data)+@+SFU;Ex-Data+Management+Analyst+@+Bank+of+New+York;Autonomous+Agent+Architect+(MCP)+%26+Distributed+Systems)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **PySpark/Big Data Projects**
-
-- 💬 Ask me about **Java & ML**
-
-- 📫 How to reach me **anpnhp2002@gmail.com**
-
-- ⚡ Fun fact **I am ambidextrous**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-nikul-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-nikul-patel" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-nikul-patel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=c31_M-oAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:officialaryanpatel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS_Certified-ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-nikul-patel&show_icons=true&locale=en&layout=compact" alt="aryan-nikul-patel" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-nikul-patel&show_icons=true&locale=en" alt="aryan-nikul-patel" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-nikul-patel&" alt="aryan-nikul-patel" /></p>
+```yaml
+name: Aryan (Ari) Patel
+role: AI / ML & Distributed Systems Engineer
+education: 
+  current: M.Sc. Professional Computer Science (Big Data) @ Simon Fraser University (Sept 2026 – Present)
+  past: B.Tech in Computer Science & Engineering @ VIT (CGPA: 8.63/10)
+experience: 
+  company: Bank of New York (May 2024 – July 2026)
+  title: Data Management Analyst (AI / Systems)
+publications: 3 Peer-Reviewed Papers (IEEE Internet of Things Journal, Alexandria Eng. Journal, IVC)
+location: Vancouver, BC, Canada 🇨🇦
+passions: [Autonomous Agent Gateways, Model Context Protocol (MCP), Distributed Lakehouses, High-Throughput Microservices]
+```
+
+---
+
+### ⚡ Featured Focus & Engineering Highlights
+
+- 🤖 **Autonomous AI Gateways & MCP:** Architected enterprise AI agent gateways at BNY utilizing **Model Context Protocol (FastMCP)** and **FastAPI** over SSE, operationalizing 36 dynamic governance tools with deterministic Pydantic V2 validation and 7-rule prompt guardrails.
+- 🏗️ **Distributed Lakehouses & Ingestion:** Engineered resilient ingestion pipelines processing multi-source enterprise metadata via **PySpark on Databricks** and modern star-schema warehouses on **Snowflake** (25% latency reduction, 67 automated quality gates).
+- ⚡ **High-Availability Microservices:** Built polyglot async event-streaming backends connecting Python and Java 17 Spring Boot via mTLS REST/JSON-RPC 2.0; deployed Redis Pub/Sub backplanes and L1 caching offloading 70% of core database read traffic.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **AI / ML & Agents** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **Data & Cloud Infra** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+
+</div>
+
+---
+
+### 📚 Applied Research & Publications
+
+> *"Bridging theoretical computer vision and federated learning with resilient production deployment."*
+
+- 📄 **IEEE Internet of Things Journal (2024):** *"A Trustable Federated Learning Framework for Rapid Fire Smoke Detection at the Edge"*
+- 📄 **Alexandria Engineering Journal (2024):** *"An Explainable Transfer Learning Framework for Multi-Classification of Lung Diseases"*
+- 📄 **Image and Vision Computing (2024):** *"AI-Powered Trustable Fall Detection System using Transfer Learning"*
+
+👉 Check out my citations and research profile on [Google Scholar](https://scholar.google.com/citations?user=c31_M-oAAAAJ&hl=en).
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Nikul-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" width="48%" alt="Aryan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Nikul-Patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" width="48%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Nikul-Patel&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="97%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Crafted with precision by <b>Aryan (Ari) Patel</b> • Open to AI/ML & Software Engineering Co-ops / Opportunities</sub>
+</div>
