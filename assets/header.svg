@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#f0f9ff"/>
+      <stop offset="70%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#0284c7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#818cf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyber-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1e293b" stroke-width="1" stroke-opacity="0.35"/>
+    </pattern>
+
+    <!-- Glow Filters -->
+    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+    </filter>
+    <filter id="glow-purple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+    </filter>
+  </defs>
+
+  <!-- Background Rect -->
+  <rect width="920" height="220" rx="14" fill="url(#bg-grad)"/>
+  
+  <!-- Ambient Radial Light Spots -->
+  <circle cx="160" cy="60" r="110" fill="#0284c7" fill-opacity="0.22" filter="url(#glow-cyan)"/>
+  <circle cx="760" cy="80" r="130" fill="#6366f1" fill-opacity="0.18" filter="url(#glow-purple)"/>
+  
+  <!-- Cyber Grid Overlay -->
+  <rect width="920" height="220" rx="14" fill="url(#cyber-grid)"/>
+
+  <!-- Subtle Ambient Border -->
+  <rect x="1" y="1" width="918" height="218" rx="13" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- Corner Tech Accents -->
+  <path d="M 16 32 L 16 16 L 32 16" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+  <path d="M 904 32 L 904 16 L 888 16" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+  <path d="M 16 188 L 16 204 L 32 204" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+  <path d="M 904 188 L 904 204 L 888 204" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+
+  <!-- Top Cyber Pill Badge -->
+  <g transform="translate(460, 48)">
+    <rect x="-165" y="-14" width="330" height="28" rx="14" fill="#0f172a" fill-opacity="0.9" stroke="#0284c7" stroke-width="1" stroke-opacity="0.6"/>
+    <circle cx="-140" cy="0" r="4" fill="#38bdf8"/>
+    <circle cx="-140" cy="0" r="8" fill="#38bdf8" fill-opacity="0.3"/>
+    <text x="8" y="4" text-anchor="middle" fill="#7dd3fc" font-family="'Fira Code', Consolas, Monaco, monospace" font-size="11" font-weight="700" letter-spacing="2.2">AI &amp; DATA SYSTEMS ARCHITECT</text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="460" y="118" text-anchor="middle" fill="url(#title-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
+    Aryan (Ari) Patel
+  </text>
+
+  <!-- Subtitle -->
+  <text x="460" y="154" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" letter-spacing="1.2">
+    AI &amp; Data Engineer <tspan fill="#38bdf8">•</tspan> M.Sc. Big Data @ Simon Fraser University
+  </text>
+
+  <!-- Glowing Wave / Bottom Accent Line -->
+  <path d="M 40 185 Q 230 178 460 187 T 880 185" fill="none" stroke="url(#accent-grad)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 180 186 Q 460 191 740 186" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.8" stroke-linecap="round"/>
+</svg>

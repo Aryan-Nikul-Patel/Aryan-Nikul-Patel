@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Modern Glowing Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0369a1,100:38bdf8&height=220&section=header&text=Aryan%20(Ari)%20Patel&fontSize=42&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%20%E2%80%A2%20%20M.Sc.%20Big%20Data%20@%20SFU&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+<!-- Modern Glowing Header Banner (Served Locally for 100% Uptime & Speed) -->
+<img src="./assets/header.svg" width="100%" alt="Aryan (Ari) Patel" />
 
 <!-- Dynamic Animated Typing Line -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vcenter=true&width=620&lines=AI+%26+Data+Engineer;Autonomous+Agent+Architect+(Model+Context+Protocol);Distributed+Data+Systems+%26+Lakehouses;M.Sc.+Professional+Computer+Science+@+SFU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vcenter=true&width=640&lines=AI+%26+Data+Engineer;Autonomous+Agent+Architect+(Model+Context+Protocol);Distributed+Data+Systems+%26+Lakehouses;M.Sc.+Professional+Computer+Science+@+SFU" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,17 +22,12 @@
 
 ---
 
-### 💻 System Specs
+<div align="center">
 
-```yaml
-engineer:
-  name: Aryan (Ari) Patel
-  role: AI & Data Engineer
-  academics: M.Sc. Professional Computer Science (Big Data) @ Simon Fraser University
-  passions: [ Autonomous Agent Gateways (MCP), Distributed Lakehouses, High-Throughput Microservices ]
-  stack: [ Python, PyTorch, PySpark, FastAPI, FastMCP, Snowflake, Databricks, AWS, Redis, Docker ]
-  creds: [ AWS Certified Machine Learning Engineer, 3x Peer-Reviewed Author ]
-```
+<!-- Sleek Cyber Terminal Card -->
+<img src="./assets/card.svg" width="100%" alt="Developer Console" />
+
+</div>
 
 ---
 
@@ -74,8 +69,8 @@ engineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Nikul-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" width="48%" alt="Aryan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Nikul-Patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Aryan-Nikul-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" width="48%" alt="Aryan's Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aryan-Nikul-Patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="48%" alt="Top Languages" />
 
 <br/>
 
@@ -83,5 +78,7 @@ engineer:
 
 </div>
 
-<!-- Modern Glowing Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0369a1,100:38bdf8&height=110&section=footer" width="100%" alt="Footer Wave" />
+<!-- Sleek Footer Accent Line -->
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer Accent" />
+</div>
