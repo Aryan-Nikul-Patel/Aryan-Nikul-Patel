@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Aryan-Nikul-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" width="48%" alt="Aryan's Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aryan-Nikul-Patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Aryan-Nikul-Patel&show_icons=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" width="48%" alt="Aryan's Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aryan-Nikul-Patel&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="48%" alt="Top Languages" />
 
 <br/>
 
